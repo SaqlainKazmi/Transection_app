@@ -4,8 +4,7 @@ import Button from './Button';
 const CTA = () => (
   <section
     className={`
-      ${styles.flexCenter} ${styles.marginY} ${styles.padding
-    } sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
+      ${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
   >
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>let's try over service now!</h2>
