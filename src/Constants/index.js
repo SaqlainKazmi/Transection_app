@@ -93,22 +93,27 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
+        id : 1 ,
         name: "Content",
         link: "https://www.hoobank.com/content/",
       },
       {
+        id : 2,
         name: "How it Works",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
+        id : 3,
         name: "Create",
         link: "https://www.hoobank.com/create/",
       },
       {
+        id : 4 , 
         name: "Explore",
         link: "https://www.hoobank.com/explore/",
       },
       {
+        id : 5,
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
@@ -156,22 +161,22 @@ export const footerLinks = [
 
 export const socialMedia = [
   {
-    id: "social-media-1",
+    id: 1,
     icon: instagram,
     link: "https://www.instagram.com/",
   },
   {
-    id: "social-media-2",
+    id: 2,
     icon: facebook,
     link: "https://www.facebook.com/",
   },
   {
-    id: "social-media-3",
+    id: 3,
     icon: twitter,
     link: "https://www.twitter.com/",
   },
   {
-    id: "social-media-4",
+    id: 4,
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
